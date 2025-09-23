@@ -9,6 +9,7 @@ Deep Learning & AI: TensorFlow, Keras, PyTorch, CNN, RNN, LSTM, Reinforcement Le
 Tools & Platforms: Jupyter Notebook, Google Colab, GitHub
 ## Projects
 -[Deep Neural Network Algorithms](https://github.com/Tigist2502/-Feed-Forward-Backpropagation-MLP) – Feed-Forward Neural Network with Backpropagation trained to control a lander game using self-collected gameplay data
+[Natural Language Processing](https://github.com/Tigist2502/Text-Classification) - Sentiment Analysis
 ## Certifications
 - Data Science Lab Badge – WorldQuant University, 2025
 - Project Management Professional (PMP)®, PMI, 2023
