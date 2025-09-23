@@ -10,6 +10,7 @@ Tools & Platforms: Jupyter Notebook, Google Colab, GitHub
 ## Projects
 - [Deep Neural Network Algorithms](https://github.com/Tigist2502/-Feed-Forward-Backpropagation-MLP) – Feed-Forward Neural Network with Backpropagation trained to control a lander game using self-collected gameplay data.
 - [Natural Language Processing](https://github.com/Tigist2502/Text-Classification) - Implemented a multi-class sentiment analysis model classifying text into six emotions (Sadness, Joy, Love, Anger, Fear, Surprise) using Python and NLP techniques.
+- [Colchester Crime & Weather Analysis](https://github.com/Tigist2502/Data-Analysis-and-Visualization/tree/main) – Analyzed 2023 Colchester street-level crime data and daily climate records using R and R Markdown.
 ## Certifications
 - Data Science Lab Badge – WorldQuant University, 2025
 - Project Management Professional (PMP)®, PMI, 2023
