@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**Tigist2502/Tigist2502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Hi, I'm Tigist! 👋
+## About Me
+Civil Engineer transitioning into Data Science | Python, SQL, Machine Learning | Passionate about solving real-world problems with data.
+## Skills
+Programming: Python, R, SQL
+Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn
+Machine Learning: Regression, Classification, Clustering, Feature Engineering
+Deep Learning & AI: TensorFlow, Keras, PyTorch, CNN, RNN, LSTM, Reinforcement Learning (OpenAI Gym)
+Tools & Platforms: Jupyter Notebook, Google Colab, GitHub
+## Certifications
+- Data Science Lab Badge – WorldQuant University, 2025
+- Project Management Professional (PMP)®, PMI, 2023
+- Statistical Inference Specialization, University of Colorado Boulder, 2023
+- R Programming and Tidyverse Specialization, University of Colorado Boulder, 2023
+- Python Programming Specialization, University of Colorado Boulder, 2023
+- Essential Math Specialization, University of Colorado Boulder, 2023
+## Contact
+- LinkedIn: www.linkedin.com/in/tigistayele
