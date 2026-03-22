@@ -1,6 +1,6 @@
 ##  Hi, I'm Tigist! 👋
 ## About Me
-Civil Engineer transitioning into Data Science | Python, SQL, Machine Learning | Passionate about solving real-world problems with data.
+Data Scientist with a strong foundation in Python, SQL, and Machine Learning. Passionate about leveraging data to solve real-world problems and drive meaningful insights. Experienced in working with data preprocessing, model development, and performance evaluation. Continuously learning and exploring new techniques to build efficient and impactful data-driven solutions.
 ## Skills
 Programming: Python, R, SQL
 Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn
