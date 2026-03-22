@@ -19,4 +19,5 @@ Tools & Platforms: Jupyter Notebook, Google Colab, GitHub
 - Python Programming Specialization, University of Colorado Boulder, 2023
 - Essential Math Specialization, University of Colorado Boulder, 2023
 ## Contact
-- LinkedIn: www.linkedin.com/in/tigistayele
+- 🔗 LinkedIn: [tigistayele](https://www.linkedin.com/in/tigistayele)
+- 📧 Email: [darkidyoh@gmail.com](mailto:darkidyoh@gmail.com)
