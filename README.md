@@ -3,7 +3,7 @@
 Data Scientist with a strong foundation in Python, SQL, and Machine Learning. Passionate about leveraging data to solve real-world problems and drive meaningful insights. Experienced in working with data preprocessing, model development, and performance evaluation. Continuously learning and exploring new techniques to build efficient and impactful data-driven solutions.
 ## Skills
 Programming: Python, R, SQL
-Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn
+Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI
 Machine Learning: Regression, Classification, Clustering, Feature Engineering
 Deep Learning & AI: TensorFlow, Keras, PyTorch, CNN, RNN, LSTM, Reinforcement Learning (OpenAI Gym)
 Tools & Platforms: Jupyter Notebook, Google Colab, GitHub
