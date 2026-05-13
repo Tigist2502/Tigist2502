@@ -2,11 +2,11 @@
 ## About Me
 Data Scientist with a strong foundation in Python, SQL, and Machine Learning. Passionate about leveraging data to solve real-world problems and drive meaningful insights. Experienced in working with data preprocessing, model development, and performance evaluation. Continuously learning and exploring new techniques to build efficient and impactful data-driven solutions.
 ## Skills
-Programming: Python, R, SQL
-Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI
-Machine Learning: Regression, Classification, Clustering, Feature Engineering
-Deep Learning & AI: TensorFlow, Keras, PyTorch, CNN, RNN, LSTM, Reinforcement Learning (OpenAI Gym)
-Tools & Platforms: Jupyter Notebook, Google Colab, GitHub
+- Programming: Python, R, SQL
+- Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI
+- Machine Learning: Regression, Classification, Clustering, Feature Engineering
+- Deep Learning & AI: TensorFlow, Keras, PyTorch, CNN, RNN, LSTM, Reinforcement Learning (OpenAI Gym)
+- Tools & Platforms: Jupyter Notebook, Google Colab, GitHub
 ## Projects
 - [Deep Neural Network Algorithms](https://github.com/Tigist2502/-Feed-Forward-Backpropagation-MLP) – Feed-Forward Neural Network with Backpropagation trained to control a lander game using self-collected gameplay data.
 - [Natural Language Processing](https://github.com/Tigist2502/Text-Classification) - Implemented a multi-class sentiment analysis model classifying text into six emotions (Sadness, Joy, Love, Anger, Fear, Surprise) using Python and NLP techniques.
